@@ -19,15 +19,6 @@
   ],
   "require": {
     "php": ">=5.5",
-    "zendframework/zend-config": "2.*",
-    "zendframework/zend-eventmanager": "2.*",
-    "zendframework/zend-http": "2.*",
-    "zendframework/zend-loader": "2.*",
-    "zendframework/zend-modulemanager": "2.*",
-    "zendframework/zend-mvc": "2.*",
-    "zendframework/zend-servicemanager": "2.*",
-    "zendframework/zend-stdlib": "2.*",
-    "zendframework/zend-view": "2.*",
     "uthando-cms/uthando-common": "2.*",
     "dompdf/dompdf": "0.7.*",
     "neilime/zf2-twb-bundle": "2.*@stable"
